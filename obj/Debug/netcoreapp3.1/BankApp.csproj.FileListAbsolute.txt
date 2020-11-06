@@ -1,0 +1,13 @@
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\obj\Debug\netcoreapp3.1\BankApp.csprojAssemblyReference.cache
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\obj\Debug\netcoreapp3.1\BankApp.AssemblyInfoInputs.cache
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\obj\Debug\netcoreapp3.1\BankApp.AssemblyInfo.cs
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\obj\Debug\netcoreapp3.1\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\bin\Debug\netcoreapp3.1\BankApp.exe
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\bin\Debug\netcoreapp3.1\BankApp.deps.json
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\bin\Debug\netcoreapp3.1\BankApp.runtimeconfig.json
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\bin\Debug\netcoreapp3.1\BankApp.runtimeconfig.dev.json
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\bin\Debug\netcoreapp3.1\BankApp.dll
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\bin\Debug\netcoreapp3.1\BankApp.pdb
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\obj\Debug\netcoreapp3.1\BankApp.dll
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\obj\Debug\netcoreapp3.1\BankApp.pdb
+C:\Users\RadwanRomy\source\repos\New folder\BankApplication\BankApp\BankApp\obj\Debug\netcoreapp3.1\BankApp.genruntimeconfig.cache
